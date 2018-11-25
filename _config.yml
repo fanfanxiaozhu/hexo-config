@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: rovast
+subtitle: rovast's blog
 description:
-keywords:
+keywords: Web PHP
 author: John Doe
-language:
+language: zh-CN
 timezone:
 
 # URL

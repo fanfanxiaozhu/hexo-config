@@ -1,5 +1,5 @@
 ---
-title: software-collection
+title: 软件合集
 tags:
 ---
 

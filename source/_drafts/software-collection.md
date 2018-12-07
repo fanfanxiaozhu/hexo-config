@@ -3,6 +3,18 @@ title: software-collection
 tags:
 ---
 
+## Gnome
+
+**extensions**
+- Dash to dock
+- Topicons plus
+- Unite
+- User themes
+
+**themes**
+- Mojave-light
+- Mojave-dark
+
 ## PhpStorm
 
 **useful command**
@@ -18,3 +30,4 @@ tags:
 **plugins**
 - DynamicReturnTypePlugin
 - CodeGlance
+- Material Theme UI _Atom One Dark color:#7F7CE9_

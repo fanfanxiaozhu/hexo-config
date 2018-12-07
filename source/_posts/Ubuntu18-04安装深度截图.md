@@ -3,6 +3,7 @@ title: Ubuntu18.04安装深度截图
 date: 2018-12-03 21:04:15
 categories: 杂项
 tags: [ubuntu, 截图]
+toc: true
 ---
 
 Ubuntu默认的截图可以使用 `shift + printScreen` 组合键来截取区域截图，保存在图片文件夹中。**但是，** 我觉得还是深度截图好用。

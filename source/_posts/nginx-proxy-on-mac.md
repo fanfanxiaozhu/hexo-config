@@ -2,6 +2,7 @@
 title: mac 上配置 nginx 端口转发访问 angular 项目
 date: 2018-12-06 21:03:01
 tags: [nginx]
+toc: true
 ---
 
 ## 背景

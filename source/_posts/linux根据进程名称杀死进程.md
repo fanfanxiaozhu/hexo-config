@@ -3,6 +3,7 @@ title: linux根据进程名称杀死进程
 date: 2018-12-04 17:17:21
 categories: Linux
 tags: [linux, kill]
+toc: true
 ---
 
 我们知道，通过 `kill -9 PID` 命令可以指定 pid 的进程，如果我们只知道进程的名称怎么杀死呢？

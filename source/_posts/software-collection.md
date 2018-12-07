@@ -1,7 +1,19 @@
 ---
 title: 软件合集
+date: 2018-12-07 18:38:21
 tags:
 ---
+
+
+## command tool
+
+- albert
+- git
+- gitk
+- oh-my-zsh
+- tig
+- tmux
+- zsh
 
 ## Gnome
 
@@ -14,6 +26,13 @@ tags:
 **themes**
 - Mojave-light
 - Mojave-dark
+
+## Linux GUI software
+- calibre
+- goland
+- phpstorm
+- Typora
+- XMind ZEN
 
 ## PhpStorm
 

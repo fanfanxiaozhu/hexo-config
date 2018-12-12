@@ -66,3 +66,23 @@ $controller->responseJson();
 
 我们手动触发的 exit 最后会去执行 register_shutdown_function 注册的函数。比如在框架中直接 exit 了之后，进行一些回收动作。
 
+### set_exception_handler
+
+> set_exception_handler — 设置用户自定义的异常处理函数。
+
+设置默认的异常处理程序，用于没有用 try/catch 块来捕获的异常。 在 exception_handler 调用后异常会中止。
+
+example
+```php
+// 执行完此函数后，运行终止
+function exception_handler($exception) {
+  echo "自定义异常处理: " , $exception->getMessage(), "\n";
+}
+
+set_exception_handler('exception_handler');
+
+throw new Exception('我来抛出一个异常');
+
+echo "异常之后的代码\n"; // 此行代码不会执行
+```  
+输出 `自定义异常处理: 我来抛出一个异常`。 **在 exception_handler 后调用异常会终止**

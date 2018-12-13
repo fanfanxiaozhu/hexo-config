@@ -28,6 +28,20 @@ print_r($res); // true
 print_r($a); // ["a" => 2, "b" => 3]
 ```
 
+### list
+
+使用 list 可实现类似 go 的多值返回
+```php
+function multi_return() {
+  return [200, 'success'];
+}
+
+list($code, $msg) = multi_return();
+
+echo $code; // 200
+echo $msg; // success
+```
+
 ## class
 
 ### JsonSerializable

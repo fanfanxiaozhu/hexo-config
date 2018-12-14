@@ -2,6 +2,7 @@
 title: linux commands 备忘录
 date: 2018-12-14 22:19:01
 tags:
+toc: true
 ---
 
 linux 常用指令备忘

@@ -1,8 +1,8 @@
 ---
 title: 深入理解DIP、IoC、DI以及IoC容器
-tags:
-  - 设计模式
+tags: [设计模式]
 date: 2018-12-10 11:28:39
+toc: true
 ---
 
 

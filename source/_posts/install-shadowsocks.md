@@ -2,6 +2,7 @@
 title: 科学上网之 Shadowsocks 安装及优化加速
 date: 2018-12-09 20:04:45
 tags: [转载]
+toc: true
 ---
 
 本文转载自 [《科学上网之 Shadowsocks 安装及优化加速》](https://yq.aliyun.com/articles/137280?commentId=11711)
